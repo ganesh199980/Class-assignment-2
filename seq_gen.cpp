@@ -20,7 +20,7 @@ int main(){
         else if(test == 'J') seq.push_back('K');
         else if(test == 'O') seq.push_back('P');
         else if(test == 'U') seq.push_back('V');
-        else if(test == 'x') seq.push_back('Y');
+        else if(test == 'X') seq.push_back('Y');
         else if(test == 'Z') seq.push_back('A');
         else seq.push_back(test);
     }
