@@ -263,7 +263,7 @@ int main(){
         }
         sum.push_back(fs);
     }
-    cout << sum.size() << endl;
+    // cout << sum.size() << endl;
     int result =0;
     for(int i=0; i<n; i++){
         result += sum[i];
